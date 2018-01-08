@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="refresh">Refresh</string>
+    <string name="convert">Convert currencies</string>
+    <string-array name="order">
+        <item>aud</item>
+        <item>cad</item>
+        <item>cny</item>
+        <item>eur</item>
+        <item>gbp</item>
+        <item>inr</item>
+        <item>jpy</item>
+        <item>nzd</item>
+        <item>usd</item>
+        <item>zar</item>
+    </string-array>
+</resources>
